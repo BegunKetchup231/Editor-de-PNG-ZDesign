@@ -1,0 +1,10 @@
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\bin\Debug\PNG100to10x10icons.exe.config
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\bin\Debug\PNG100to10x10icons.exe
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\bin\Debug\PNG100to10x10icons.pdb
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Debug\PNG100to10x10icons.csproj.AssemblyReference.cache
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Debug\PNG100to10x10icons.Form1.resources
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Debug\PNG100to10x10icons.Properties.Resources.resources
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Debug\PNG100to10x10icons.csproj.GenerateResource.cache
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Debug\PNG100to10x10icons.csproj.CoreCompileInputs.cache
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Debug\PNG100to10x10icons.exe
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Debug\PNG100to10x10icons.pdb
