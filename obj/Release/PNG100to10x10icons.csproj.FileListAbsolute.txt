@@ -8,3 +8,7 @@ C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Release\PNG100to10x10
 C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Release\PNG100to10x10icons.csproj.CoreCompileInputs.cache
 C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Release\PNG100to10x10icons.exe
 C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Release\PNG100to10x10icons.pdb
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\bin\Release\Ookii.Dialogs.Wpf.dll
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\bin\Release\Ookii.Dialogs.Wpf.pdb
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\bin\Release\Ookii.Dialogs.Wpf.xml
+C:\Users\Wellden Moura\source\repos\PNG100to10x10icons\obj\Release\PNG100to10x10icons.csproj.CopyComplete

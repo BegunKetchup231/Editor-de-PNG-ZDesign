@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PNG100to10x10icons.Properties {
+namespace Editor_de_PNG_ByZDesign.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace PNG100to10x10icons.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PNG100to10x10icons.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Editor_de_PNG_ByZDesign.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -66,6 +66,45 @@ namespace PNG100to10x10icons.Properties {
         internal static System.Drawing.Bitmap boneca_zdesign {
             get {
                 object obj = ResourceManager.GetObject("boneca_zdesign", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream clicknormal1 {
+            get {
+                return ResourceManager.GetStream("clicknormal1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fundo_botao_xp {
+            get {
+                object obj = ResourceManager.GetObject("fundo_botao_xp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fundobotao2 {
+            get {
+                object obj = ResourceManager.GetObject("fundobotao2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap fundobutton2 {
+            get {
+                object obj = ResourceManager.GetObject("fundobutton2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
