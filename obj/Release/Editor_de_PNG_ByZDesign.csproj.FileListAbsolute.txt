@@ -1,0 +1,14 @@
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\bin\Release\Editor_de_PNG_ByZDesign.exe.config
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\bin\Release\Editor_de_PNG_ByZDesign.exe
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\bin\Release\Editor_de_PNG_ByZDesign.pdb
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\bin\Release\Ookii.Dialogs.Wpf.dll
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\bin\Release\Ookii.Dialogs.Wpf.pdb
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\bin\Release\Ookii.Dialogs.Wpf.xml
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\obj\Release\Editor_de_PNG_ByZDesign.csproj.AssemblyReference.cache
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\obj\Release\PNG100to10x10icons.Form1.resources
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\obj\Release\Editor_de_PNG_ByZDesign.Properties.Resources.resources
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\obj\Release\Editor_de_PNG_ByZDesign.csproj.GenerateResource.cache
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\obj\Release\Editor_de_PNG_ByZDesign.csproj.CoreCompileInputs.cache
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\obj\Release\Editor_de_PNG_ByZDesign.csproj.CopyComplete
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\obj\Release\Editor_de_PNG_ByZDesign.exe
+C:\Users\Wellden Moura\Documents\MeusProjetosGitHub\Editor-de-PNG-ZDesign\obj\Release\Editor_de_PNG_ByZDesign.pdb
