@@ -161,7 +161,7 @@
             this.tableHome.Controls.Add(this.pictureBox1, 1, 0);
             this.tableHome.Controls.Add(this.pictureBox2, 0, 1);
             this.tableHome.Controls.Add(this.tableLayoutPanel2, 0, 0);
-            this.tableHome.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tableHome.Dock = System.Windows.Forms.DockStyle.Right;
             this.tableHome.Location = new System.Drawing.Point(0, 0);
             this.tableHome.Margin = new System.Windows.Forms.Padding(0);
             this.tableHome.Name = "tableHome";
